@@ -1,5 +1,5 @@
 {
-    "name": "rostami/commentable",
+    "name": "Rostami/Commentable",
     "description": "this package is for enabling a Eloquent model to have comment or to publish a comment",
     "type": "laravel-package",
     "license": "MIT",
